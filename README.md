@@ -49,4 +49,4 @@ This is an independent project. It is not affiliated with or endorsed by Docker,
 
 ## License
 
-MIT. Copyright 0xelitesystem 2026.
+MIT. Copyright RBL Industries LLC 2026.
